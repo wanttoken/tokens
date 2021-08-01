@@ -1,0 +1,11 @@
+{
+ "name": "WANT Token",
+ "website": "https://wantoken.xyz",
+ "description": "WANT，将区块链技术与实体经济深度融合，为实体经济赋能。",
+ "explorer": "https://tronscan.io/#/contract/TVgtDCAQeqWpr7U1HGQZGgHmvFtcBjRjpG",
+ "type": "TRC20",
+ "symbol": "WANT",
+ "decimals": 8,
+ "status": "active",
+ "id": "TVgtDCAQeqWpr7U1HGQZGgHmvFtcBjRjpG"
+}
